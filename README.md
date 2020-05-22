@@ -1,2 +1,3 @@
-# Document-Intelligence
-Its all about collation of artificial intelligence and real time documents.
+# Document-Classification-CNN
+Scanned document classification using convolutional neural netwok.
+
